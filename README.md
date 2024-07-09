@@ -1,111 +1,35 @@
-![GitHub Profile README Generator](https://your-logo-url-here.com/logo.png)
-# Hi 👋, I'm Man Mohan Singh (CodeDeprived)
-A passionate frontend developer from India 
+<h1 align="center">Hi 👋, I'm ManMohan (CodeDeprived)</h1>
+<h3 align="center">Hi, I'm Man Mohan Singh, a dedicated software engineer with a passion for developing innovative solutions. I specialize in frontend development, leveraging frameworks like React and Vue to create dynamic web applications. With a strong foundation in problem-solving and a commitment to continuous learning, I strive to deliver high-quality software that meets user needs.</h3>
 
-🔭 I’m currently working on [Student Progress Tracker](your-project-link-here)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codedeprived&label=Profile%20views&color=0e75b6&style=flat" alt="codedeprived" /> </p>
 
-👯 I’m looking to collaborate on [Student Progress Tracker](your-project-link-here)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codedeprived" alt="codedeprived" /></a> </p>
 
-🤝 I’m looking for help with [Student Progress Tracker](your-project-link-here)
+- 🔭 I’m currently working on **Student Progress Tracker**
 
-🌱 I’m currently learning Frameworks, courses etc.
+- 🌱 I’m currently learning **Spring Boot , MVC , Selenium , ReactNative**
 
-💬 Ask me about React, Vue, and GSAP
+- 👯 I’m looking to collaborate on **Student Progress Tracker**
 
-📫 How to reach me: manmohansingh1@shooliniuniversity.com
+- 🤝 I’m looking for help with **Student Progress Tracker**
 
-👨‍💻 All of my projects are available at [portfolio link](your-portfolio-link-here)
+- 👨‍💻 All of my projects are available at [.....](.....)
 
-📝 I regularly write articles on [blog link](your-blog-link-here)
+- 💬 Ask me about **CyberSecurity , AI , Software Development**
 
-📄 Know about my experiences: [resume link](your-resume-link-here)
+- 📫 How to reach me **smanmohan735@gmail.com**
 
-⚡ Fun fact: I think I am funny
+- 📄 Know about my experiences [.......](.......)
 
-## Skills
+- ⚡ Fun fact **If im not on my computer you can find in basketball court :)**
 
-### Programming Languages
-- Java
-- Python
-- SQL
-- Flutter
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### Frontend Development
-- React
-- Vue
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-### Web Development
-- HTML5
-- CSS3
-- JavaScript
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codedeprived&show_icons=true&locale=en&layout=compact" alt="codedeprived" /></p>
 
-### Other Skills
-- Problem Solving
-- Object-Oriented Programming
-- Web Apps Development
-- Adaptability
-- Critical Thinking
-
-## Projects
-
-### PDF-Query Web App using Open AI API and Python
-**Apr 2023 - July 2023**  
-Developed a web application using Langchain, Streamlit, and Open-AI's API key. This innovative web-based tool allows users to ask questions and extract valuable insights directly from PDF files.
-
-### Digital Scare Crow
-**Dec 2022 - Mar 2023**  
-Created a fully autonomous animal deterrent system, Digital-scarecrow, using Raspberry Pi. Utilized Open CV for real-time detection and triggering a loud buzzer alarm upon detection, successfully deterring animals.
-
-### Autonomous Self-Driving Mini-Car
-Worked in a team of two to develop a fully autonomous mini-car using Arduino, PIR sensors, and ultrasound sensors. The car is capable of navigating recursively in a room without crashing into obstacles.
-
-### Object Detection Using Raspberry Pi
-**May 2022 – Aug 2022**  
-Implemented Open Computer Vision (Open CV) library for harnessing the capabilities of Raspberry Pi to detect objects in real-time and classify them based on pre-trained COCO libraries.
-
-## Certifications/Achievements/Badges
-
-- **Crash course on Python**, issued by Google. [Verify](https://coursera.org/verify/G27Q99N8NDNG)
-- **IBM Design Thinking**. Course id no - 57ecc7930a1047dba38be44497d06699
-- **Digital Transformation with Google Cloud**, Google Cloud Skill Boost | Arcade | Dec 2023 (badge)
-- **Introduction to Responsible AI**, Google Cloud Skill Boost | Arcade | Dec 2023 (badge)
-- Served as Technical Lead in GDSC Shoolini Chapter 2022-2023
-- Served as IEEE Student Branch IT associate manager 2023-2024
-- Demonstrated my IoT projects in IoT workshop hosted by IEEE Student Branch Shoolini.
-- Participated in Dev-Community Roadshow Hosted by GDG Jalandhar 2022. Certificate No.: DCR-22-COP-9-15139
-
-## Leadership Experience/Position of Responsibilities
-
-### Technical Lead GDSC / Shoolini University / Solan
-**Feb 2022 – Dec 2022**  
-Selected as a Technical Assistant provider/manager in various GDSC club activities within Campus. Worked with the GDSC team to conduct successful events throughout the year.
-
-### IEEE Shoolini University Student Branch (Associate IT Manager) / Shoolini University / Solan
-**Mar 2023 – Dec 2023**  
-Innovated and implemented tech-driven solutions, boosting operational efficiency and enhancing member engagement for IEEE Student Branch Shoolini University. Developed IEEE Student Branch website and managed it till the year 2023. Efficiently countered technical issues in various IEEE Student Branch Events.
-
-## Interests and Hobbies
-- Competitive Programming
-- Robotics
-- IoT
-- Computer Technologies
-- Basketball
-- Calisthenics
-- Cycling
-- Travelling
-
-## Language Proficiency
-- Fluent in English and Hindi
-
-## Social
-
-- **GitHub**: [your-github-username](https://github.com/your-github-username)
-- **Twitter**: [your-twitter-username](https://twitter.com/your-twitter-username)
-- **LinkedIn**: [your-linkedin-username](https://linkedin.com/in/your-linkedin-username)
-- **Codeforces**: [your-codeforces-username](https://codeforces.com/profile/your-codeforces-username)
-- **LeetCode**: [your-leetcode-username](https://leetcode.com/your-leetcode-username)
-
-## Support
-- **Buy Me a Coffee**: [your-buymeacoffee-username](https://buymeacoffee.com/your-username)
-- **Ko-fi**: [your-ko-fi-username](https://ko-fi.com/your-username)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codedeprived&show_icons=true&locale=en" alt="codedeprived" /></p>
