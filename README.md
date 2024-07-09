@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ManMohan (CodeDeprived)</h1>
-<h3 align="center">Hi, I'm Man Mohan Singh, a dedicated software engineer with a passion for developing innovative solutions. I specialize in frontend development, leveraging frameworks like React and Vue to create dynamic web applications. With a strong foundation in problem-solving and a commitment to continuous learning, I strive to deliver high-quality software that meets user needs.</h3>
+<h3 align="center">Hi, I'm Man Mohan Singh, a dedicated software engineer with a passion for developing innovative solutions. I specialize in Application development, leveraging frameworks like Spring Boot and Hibernate to create dynamic applications. With a strong foundation in problem-solving and a commitment to continuous learning, I strive to deliver high-quality software that meets user needs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codedeprived&label=Profile%20views&color=0e75b6&style=flat" alt="codedeprived" /> </p>
 
